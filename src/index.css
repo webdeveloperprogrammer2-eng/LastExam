@@ -1,0 +1,8 @@
+@import "tailwindcss";
+.bgimage{
+  background-color: #1E2126;
+   background-image: url("../src//assets/tour-1\ 1.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

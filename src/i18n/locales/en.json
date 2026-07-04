@@ -1,0 +1,240 @@
+{
+  "common": {
+    "productTitleClassic": "Penoflex Comfort 1185x585x20mm 20 slabs, 13.86m2, 0.27m3",
+    "productTitle30": "Penoflex Comfort 1185x585x30mm 20 slabs, 13.86m2, 0.41m3",
+    "productTitleFoil": "Penoflex Foil 1185x585x10mm 20 slabs, 13.86m2, 0.14m3",
+    "badgeGift": "3 GIFT",
+    "badgeNew": "NEW",
+    "addToCart": "Add to cart",
+    "decreaseQty": "Decrease quantity",
+    "increaseQty": "Increase quantity",
+    "addedToCart": "Item added to cart!",
+    "viewAll": "View all",
+    "close": "Close",
+    "currency": "₽",
+    "unitPc": "pc."
+  },
+  "layout": {
+    "delivery": "Delivery",
+    "payment": "Payment",
+    "contacts": "Contacts",
+    "cart": "Cart",
+    "menu": "Menu",
+    "searchPlaceholder": "Search for products...",
+    "phone": "8-800-550-01-09"
+  },
+  "logout": {
+    "button": "Log out"
+  },
+  "drawer": {
+    "catalog": "Catalog",
+    "categories": {
+      "insulation": "Thermal insulation",
+      "sheetMaterial": "Sheet material",
+      "roofingDrainage": "Roofing and drainage",
+      "fences": "Fences",
+      "constructionBlock": "Construction blocks",
+      "dryMixProfiles": "Dry mixes, profiles",
+      "membranes": "Membranes",
+      "bitumen": "Bitumen products",
+      "concreteCement": "Concrete, cement",
+      "metalFiberglass": "Metal products and fiberglass",
+      "hardware1": "Hardware",
+      "hardware2": "Hardware",
+      "gardenYard": "Garden and yard",
+      "pvcWindows": "PVC windows",
+      "heatedFloor": "Heated floor",
+      "lumber": "Lumber"
+    }
+  },
+  "footer": {
+    "supplier": "SUPPLIER",
+    "phone": "8-800-550-01-09",
+    "email": "postaviv@y8mail.ru",
+    "copyright": "© 2023 All rights reserved",
+    "infoTitle": "Information",
+    "infoPayment": "Payment",
+    "infoDelivery": "Delivery",
+    "infoPrivacyPolicy": "Privacy policy",
+    "infoPrivacyConsent": "Consent to personal data processing",
+    "officeTitle": "Head office and warehouse",
+    "address": "Irkutsk, Rakitnaya st., bldg 4, block 11",
+    "workHours": "Working hours: Mon-Fri 9:00 to 18:00, Sat 9:00 to 14:00",
+    "regionalWarehouses": "Regional warehouses"
+  },
+  "login": {
+    "welcome": "Welcome 👋",
+    "subtitle": "Login to continue",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Login"
+  },
+  "home1": {
+    "banners": [
+      {
+        "title": "New in Russia",
+        "subtitle": "Sever - thermal insulation for harsh climates",
+        "price": "from 850 ₽ per 3m²"
+      },
+      {
+        "title": "Best thermal insulation",
+        "subtitle": "Save heat in winter",
+        "price": "from 990 ₽ per 3m²"
+      },
+      {
+        "title": "Discounts up to 30%",
+        "subtitle": "Only until the end of the month",
+        "price": "from 750 ₽ per 3m²"
+      }
+    ],
+    "more": "Learn more"
+  },
+  "home2": {
+    "heading": "Thermal insulation"
+  },
+  "home3": {
+    "heading": "Construction blocks"
+  },
+  "home4": {
+    "heading": "Sheet materials"
+  },
+  "home5": {
+    "heading": "Roofing and drainage"
+  },
+  "home6": {
+    "showMore": "Show more"
+  },
+  "catalog": {
+    "title": "Basalt wool",
+    "refresh": "Refresh",
+    "errorLoad": "Failed to load products. Please try again later.",
+    "errorTimeout": "The server is not responding (timeout). Check your connection or the server.",
+    "errorNetwork": "Network error: the server is unreachable or blocked by a CORS policy.",
+    "error404": "The /products endpoint was not found (404). Check the API path.",
+    "error500": "Internal server error (500). Check the backend logs.",
+    "errorAuth": "Access denied (401/403). Check authorization/token.",
+    "retry": "Retry",
+    "categoryId": "Category ID: {{id}}",
+    "unitLabel": "Unit: {{unit}}",
+    "noDescription": "No description has been added for this product yet.",
+    "addedToCartMsg": "\"{{name}}\" added to cart!",
+    "notFound": "No products found"
+  },
+  "cart": {
+    "home": "Home",
+    "title": "Cart",
+    "clearCart": "Clear cart",
+    "emptyTitle": "Your cart is empty",
+    "emptySubtitle": "Add products from the catalog",
+    "goToCatalog": "Go to catalog",
+    "perItem": "₽/pc.",
+    "total": "Total:",
+    "orderFormTitle": "Checkout",
+    "namePlaceholder": "Name",
+    "phonePlaceholder": "Phone number",
+    "emailPlaceholder": "Email",
+    "selectWarehouse": "Select a warehouse",
+    "warehouse1": "Warehouse #1 — Central",
+    "warehouse2": "Warehouse #2 — Northern",
+    "warehouse3": "Warehouse #3 — Western",
+    "itemsCount": "{{count}} items",
+    "submit": "PLACE ORDER",
+    "policyText": "By clicking the \"Place order\" button, you automatically agree to the",
+    "policyLink": "personal data processing policy",
+    "and": "and provide your",
+    "consentLink": "consent to the processing of your personal data",
+    "requiredFieldsAlert": "Please fill in the required fields (Name and Phone number)"
+  },
+  "oplata": {
+    "title": "Payment",
+    "qrTitle": "By QR code",
+    "qrText": "Payment is credited to the seller's account instantly and helps avoid cash flow gaps.",
+    "cashTitle": "Cash",
+    "cashText": "Direct hand-to-hand payment to the seller.",
+    "bankTitle": "Bank transfer",
+    "bankText": "The transfer is made based on the organization's details provided.",
+    "paragraph1": "We love animals and try to support those who haven't been lucky enough to have caring owners and a warm home. One proven way to help is donating to the \"Ray of Kindness\" charity fund. Thanks to their work, hundreds more pets are finding new homes.",
+    "paragraph2": "The opposing point of view suggests that independent states only add factional disagreements and are portrayed exclusively in a positive light.",
+    "requisitesTitle": "Payment details:",
+    "companyName": "\"Postavshchik\" LLC",
+    "inn": "TIN 7713522570 / KPP 771301001",
+    "account": "Checking account No. 40702810400180000662",
+    "bank": "JSC \"Otp Bank\", Moscow",
+    "corrAccount": "Correspondent account No. 30101810000000000311",
+    "bik": "BIC 044525311."
+  },
+  "dostavka": {
+    "title": "Delivery",
+    "tabRules": "Delivery rules",
+    "tabPrice": "Service costs",
+    "rulesTitle": "Delivery rules",
+    "rulesText1": "Delivery is carried out by the company's transport. The driver does not unload the goods and hands them over to the recipient after checking the documents.",
+    "rulesText2": "If the buyer is not present at the specified address, delivery is rescheduled for another time.",
+    "rulesText3": "Upon receipt, carefully check the quantity of goods, the integrity of the packaging, and their appearance.",
+    "requiredTitle": "To arrange delivery you will need:",
+    "requiredItem1": "Contact phone number",
+    "requiredItem2": "Recipient's full name",
+    "requiredItem3": "Exact delivery address",
+    "requiredItem4": "Convenient pickup time",
+    "pickupTitle": "Self-pickup",
+    "pickupText": "You can pick up the goods from the warehouse yourself after the order is confirmed by a manager.",
+    "irkutskTitle": "Delivery within Irkutsk",
+    "irkutskText": "Delivery is carried out daily. The cost depends on the district and the volume of the order.",
+    "russiaTitle": "Delivery across Russia",
+    "russiaText": "We ship goods via transport companies. Delivery is possible to any region of Russia.",
+    "freeTitle": "Free delivery",
+    "freeText": "For orders over a certain amount, delivery within the city is free.",
+    "priceTitle": "Delivery cost",
+    "zones": [
+      { "name": "Delivery to Sverdlovsky district", "price": "600 ₽" },
+      { "name": "Delivery to Oktyabrsky district", "price": "800 ₽" },
+      { "name": "Delivery to Leninsky district", "price": "900 ₽" },
+      { "name": "Delivery to Pravoberezhny district", "price": "700 ₽" },
+      { "name": "Delivery to Angarsk", "price": "2000 ₽" },
+      { "name": "Delivery to Shelekhov", "price": "1200 ₽" },
+      { "name": "Delivery to Usolye", "price": "2500 ₽" },
+      { "name": "Delivery to Baikalsk", "price": "3500 ₽" },
+      { "name": "Delivery to Sayansk", "price": "4000 ₽" },
+      { "name": "Delivery across the region", "price": "from 1000 ₽" }
+    ]
+  },
+  "oformleniye": {
+    "successTitle": "Your order has been placed successfully!",
+    "successText": "We will contact you shortly to confirm the order details.",
+    "backHome": "BACK TO HOME"
+  },
+  "contacts": {
+    "title": "Contacts",
+    "mapLoading": "Loading map...",
+    "offices": [
+      {
+        "title": "Head office and warehouse",
+        "phone": "+7 (3952) 648-139",
+        "email": "postav.irk@mail.ru",
+        "address": "Irkutsk, Rakitnaya st., bldg 4, block 11",
+        "hours": "Mon-Fri 9:00 to 18:00, Sat 9:00 to 14:00"
+      },
+      {
+        "title": "Office and warehouse on Traktovaya",
+        "phone": "+7 (3952) 648-989",
+        "email": "post5447374@gmail.com",
+        "address": "Irkutsk, Traktovaya st. 7/7",
+        "hours": "Mon-Fri 9:00 to 18:00, Sat 9:00 to 14:00"
+      },
+      {
+        "title": "Head office and warehouse",
+        "phone": "+7 (3952) 648-139",
+        "email": "postav.irk@mail.ru",
+        "address": "Irkutsk, Rakitnaya st., bldg 4, block 11",
+        "hours": "Mon-Fri 9:00 to 18:00, Sat 9:00 to 14:00"
+      },
+      {
+        "title": "Office and warehouse on Traktovaya",
+        "phone": "+7 (3952) 648-989",
+        "email": "post5447374@gmail.com",
+        "address": "Irkutsk, Traktovaya st. 7/7",
+        "hours": "Mon-Fri 9:00 to 18:00, Sat 9:00 to 14:00"
+      }
+    ]
+  }
+}
